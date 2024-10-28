@@ -36,6 +36,17 @@ Bu depo, Murat Yücedağ’ın eğitmenliğinde yürütülen C# Eğitim Kampı b
    - **Konular**: `Metotlar` , `parametreli ve geri değer döndüren metotlar` kulanıldı.
    - **Amaç**: C# dilinde metotların kullanımını göstermek ve kullanıcıdan alınan sınav notlarıyla öğrencinin başarı durumunu belirleyen bir uygulama geliştirmek. Bu proje, metotların nasıl tanımlanıp çağrıldığını anlamaya yardımcı olmaktadır. 🔧📊
 
+   - 🔍 **Proje 9: Veri Tabanlı Ürün-Kategori Bilgi Sistemi**
+
+   - **Konular**: `SqlConnection`, `SqlCommand`, `SqlDataAdapter`, `DataTable`, `veri tabanı bağlantısı` ve `veri çekme` gibi konular kulanıldı.
+   - **Amaç**: SQL veritabanından kategori, ürün ve sipariş bilgilerini kullanıcıya sunarak veritabanı bağlantısı kurma ve verileri dinamik olarak listeleme işlemlerini öğrenmek. Bu proje, SQL ile etkileşim kurmayı, verileri `DataTable` kullanarak işlemeyi ve konsol 
+     ekranına yazdırmayı sağlar.
+
+     📊 **Proje 10: Database (Create-Read-Update-Delete)**
+
+   - **Konular**: Veri tabanı işlemleri, CRUD (Create-Read-Update-Delete) işlemleri, `SqlConnection`, `SqlCommand`, `SqlDataAdapter` ve `DataTable` kullanımı.
+   - **Amaç**: Basit bir veri tabanlı ürün-kategori bilgi sistemi oluşturmak. Bu proje, veri tabanı bağlantıları ve SQL sorguları kullanılarak kategori ve ürün işlemleri (ekleme, listeleme, silme, güncelleme) yapmayı öğrenmek için tasarlandı. 🍽️
+
 ---
 
 Kamp süreci tamamlandığında projeler üzerinde iyileştirmeler ve yeni detaylar ekleyerek bu sayfayı düzenli olarak güncelleyeceğim.
